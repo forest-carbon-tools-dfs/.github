@@ -12,7 +12,7 @@ carbon models such as the **Carbon Budget Model (CBM)**.
 | Repository | What it does |
 |---|---|
 | [**bcVDYPMSYTyieldcurves**](https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves) | Identify BC VRI polygons needing yield curves, match them to managed-stand (MSYT) curves, and generate natural-stand curves via **VDYP7**. |
-| **GroundPlotVRIVDYPyieldcurves** | Generate yield curves for **National Forest Inventory (NFI)** ground plots in BC using **VDYP7console**. |
+| **GroundPlotVRIVDYPyieldcurves** | Generate yield curves from BC's VRI (as was intended), or from **National Forest Inventory (NFI)** or **BC PSP/non-PSP** ground plot data using **VDYP7console**. |
 | **cbmSampleYieldCurves** | Produce representative yield curves across Canadian ecozones and common species, and export them for the **Carbon Budget Model (CBM)**. |
 
 _Some repositories are private while under active development._
