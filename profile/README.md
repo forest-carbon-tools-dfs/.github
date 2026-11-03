@@ -16,6 +16,7 @@ carbon models such as the **Carbon Budget Model (CBM)**.
 | **cbmSampleYieldCurves** | Produce representative yield curves across Canadian ecozones and common species, and export them for the **Carbon Budget Model (CBM)**. |
 | **CanGrowthModels** | Curated registry of forest growth and yield models developed for or applicable to Canadian forests. |
 | **GYClimTransferCFS** | Apply provenance-based transfer functions to growth and yield curves to generate climate-sensitive merchantable-volume projections. |
+| [**NationalModelUng2009**](https://github.com/forest-carbon-tools-dfs/NationalModelUng2009) | R implementation of the Ung et al. (2009) national stand-volume models. |
 
 _Some repositories are private while under active development._
 
