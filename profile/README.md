@@ -14,7 +14,7 @@ carbon models such as the **Carbon Budget Model (CBM)**.
 | [**bcVDYPMSYTyieldcurves**](https://github.com/forest-carbon-tools-dfs/bcVDYPMSYTyieldcurves) | Identify BC VRI polygons needing yield curves, match them to managed-stand (MSYT) curves, and generate natural-stand curves via **VDYP7**. |
 | **GroundPlotVRIVDYPyieldcurves** | Generate yield curves from BC's VRI (as was intended), or from **National Forest Inventory (NFI)** or **BC PSP/non-PSP** ground plot data using **VDYP7console**. |
 | **cbmSampleYieldCurves** | Produce representative yield curves across Canadian ecozones and common species, and export them for the **Carbon Budget Model (CBM)**. |
-| **CanGrowthModels** | Curated registry of forest growth and yield models developed for or applicable to Canadian forests. |
+| [**CanGrowthModels**](https://github.com/forest-carbon-tools-dfs/CanGrowthModels.git) | Curated registry of forest growth and yield models developed for or applicable to Canadian forests. |
 | **GYClimTransferCFS** | Apply provenance-based transfer functions to growth and yield curves to generate climate-sensitive merchantable-volume projections. |
 | [**NationalModelUng2009**](https://github.com/forest-carbon-tools-dfs/NationalModelUng2009) | R implementation of the Ung et al. (2009) national stand-volume models. |
 
