@@ -1,11 +1,7 @@
 # forest-carbon-tools-dfs
 
-R tools for **forest growth &amp; yield modelling and carbon accounting** in Canada,
-developed within the Canadian Forest Service (Natural Resources Canada).
-
-The common thread across these projects is generating **merchantable-volume
-yield curves** from forest-inventory data and preparing them for downstream
-carbon models such as the **Carbon Budget Model (CBM)**.
+R tools for **forest growth &amp; yield modelling and carbon accounting** in Canada.
+All tools developed under Natural Resources Canada, Canadian Forest Service.
 
 ## Repositories
 
