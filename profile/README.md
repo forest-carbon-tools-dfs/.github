@@ -1,6 +1,6 @@
 # forest-carbon-tools-dfs
 
-R tools for **forest growth &amp; yield modelling and carbon accounting** in Canada.
+Tools for **forest growth &amp; yield modelling and carbon accounting** in Canada.
 All tools developed under Natural Resources Canada, Canadian Forest Service.
 
 ## Repositories
